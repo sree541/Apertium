@@ -1,0 +1,16 @@
+<dictionary>
+  <pardefs>
+  <!-- വയ്ക്കുക; വ; 5 -->
+    <pardef n="വ/യ്ക്കുക__vblex">
+      <e>       <p><l>യ്ക്കും</l><r>യ്ക്കുക<s n="vblex"/><s n="fut"/></r></p></e>
+      <e>       <p><l>യ്ക്കാന്‍</l><r>യ്ക്കുക<s n="vblex"/><s n="infp"/></r></p></e>
+      <e>       <p><l>യ്ക്കണം</l><r>യ്ക്കുക<s n="vblex"/><s n="oblig"/></r></p></e>
+      <e>       <p><l>ച്ചു</l><r>യ്ക്കുക<s n="vblex"/><s n="past"/></r></p></e>
+      <e>       <p><l>യ്ക്കുന്നു</l><r>യ്ക്കുക<s n="vblex"/><s n="pres"/></r></p></e>
+    </pardef>
+
+  </pardefs>
+  <section id="main" type="standard">
+    <e lm="വയ്ക്കുക"><i>വ</i><par n="വ/യ്ക്കുക__vblex"/></e>
+  </section>
+</dictionary>

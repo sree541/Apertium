@@ -1,0 +1,18 @@
+<dictionary>
+  <pardefs>
+  <!-- അവര്‍; അവര; 7 -->
+    <pardef n="അവര/്‍__prn">
+      <e>       <p><l>്‍</l><r>്‍<s n="prn"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>െ</l><r>്‍<s n="prn"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p><l>ുടെ</l><r>്‍<s n="prn"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p><l>്‍ക്ക്</l><r>്‍<s n="prn"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p><l>ാല്‍</l><r>്‍<s n="prn"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p><l>േ</l><r>്‍<s n="prn"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ോട്</l><r>്‍<s n="prn"/><s n="pl"/><s n="soc"/></r></p></e>
+    </pardef>
+
+  </pardefs>
+  <section id="main" type="standard">
+    <e lm="അവര്‍"><i>അവര</i><par n="അവര/്‍__prn"/></e>
+  </section>
+</dictionary>

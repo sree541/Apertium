@@ -1,0 +1,16 @@
+<dictionary>
+  <pardefs>
+  <!-- തരുക; ത; 5 -->
+    <pardef n="ത/രുക__vblex">
+      <e>       <p><l>രും</l><r>രുക<s n="vblex"/><s n="fut"/></r></p></e>
+      <e>       <p><l>രണം</l><r>രുക<s n="vblex"/><s n="oblig"/></r></p></e>
+      <e>       <p><l>ന്നു</l><r>രുക<s n="vblex"/><s n="past"/></r></p></e>
+      <e>       <p><l>രുന്നു</l><r>രുക<s n="vblex"/><s n="pres"/></r></p></e>
+      <e>       <p><l>രാ</l><r>രുക<s n="vblex"/><s n="ന്‍ infp"/></r></p></e>
+    </pardef>
+
+  </pardefs>
+  <section id="main" type="standard">
+    <e lm="തരുക"><i>ത</i><par n="ത/രുക__vblex"/></e>
+  </section>
+</dictionary>

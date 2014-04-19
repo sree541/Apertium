@@ -1,0 +1,16 @@
+<dictionary>
+  <pardefs>
+  <!-- ചാകുക; ച; 5 -->
+    <pardef n="ച/ാകുക__vblex">
+      <e>       <p><l>ാകും</l><r>ാകുക<s n="vblex"/><s n="fut"/></r></p></e>
+      <e>       <p><l>ാകാന്‍</l><r>ാകുക<s n="vblex"/><s n="infp"/></r></p></e>
+      <e>       <p><l>ാകണം</l><r>ാകുക<s n="vblex"/><s n="oblig"/></r></p></e>
+      <e>       <p><l>ത്തു</l><r>ാകുക<s n="vblex"/><s n="past"/></r></p></e>
+      <e>       <p><l>ാകുന്നു</l><r>ാകുക<s n="vblex"/><s n="pres"/></r></p></e>
+    </pardef>
+
+  </pardefs>
+  <section id="main" type="standard">
+    <e lm="ചാകുക"><i>ച</i><par n="ച/ാകുക__vblex"/></e>
+  </section>
+</dictionary>

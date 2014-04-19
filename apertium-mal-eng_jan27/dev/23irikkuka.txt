@@ -1,0 +1,16 @@
+<dictionary>
+  <pardefs>
+  <!-- ഇരിക്കുക; ഇര; 5 -->
+    <pardef n="ഇര/ിക്കുക__vblex">
+      <e>       <p><l>ിക്കും</l><r>ിക്കുക<s n="vblex"/><s n="fut"/></r></p></e>
+      <e>       <p><l>ിക്കാന്‍</l><r>ിക്കുക<s n="vblex"/><s n="infp"/></r></p></e>
+      <e>       <p><l>ിക്കണം</l><r>ിക്കുക<s n="vblex"/><s n="oblig"/></r></p></e>
+      <e>       <p><l>ുന്നു</l><r>ിക്കുക<s n="vblex"/><s n="past"/></r></p></e>
+      <e>       <p><l>ിക്കുന്നു</l><r>ിക്കുക<s n="vblex"/><s n="pres"/></r></p></e>
+    </pardef>
+
+  </pardefs>
+  <section id="main" type="standard">
+    <e lm="ഇരിക്കുക"><i>ഇര</i><par n="ഇര/ിക്കുക__vblex"/></e>
+  </section>
+</dictionary>

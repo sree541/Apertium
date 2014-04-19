@@ -1,0 +1,16 @@
+<dictionary>
+  <pardefs>
+  <!-- വിരളുക; വിര; 5 -->
+    <pardef n="വിര/ളുക__vblex">
+      <e>       <p><l>ളും</l><r>ളുക<s n="vblex"/><s n="fut"/></r></p></e>
+      <e>       <p><l>ളാന്‍</l><r>ളുക<s n="vblex"/><s n="infp"/></r></p></e>
+      <e>       <p><l>ളണം</l><r>ളുക<s n="vblex"/><s n="oblig"/></r></p></e>
+      <e>       <p><l>ണ്ടു</l><r>ളുക<s n="vblex"/><s n="past"/></r></p></e>
+      <e>       <p><l>ളുന്നു</l><r>ളുക<s n="vblex"/><s n="pres"/></r></p></e>
+    </pardef>
+
+  </pardefs>
+  <section id="main" type="standard">
+    <e lm="വിരളുക"><i>വിര</i><par n="വിര/ളുക__vblex"/></e>
+  </section>
+</dictionary>

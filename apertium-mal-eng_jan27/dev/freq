@@ -1,0 +1,1 @@
+cat mycorpus.txt | tr ' ' '\012' | sort -f | uniq -c | sort -gr > mal.hitparade.txt

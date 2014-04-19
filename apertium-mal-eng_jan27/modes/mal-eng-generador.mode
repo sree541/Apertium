@@ -1,0 +1,3 @@
+    
+    lt-proc /home/sreekumar/apertium-mal-eng/mal-eng.automorf.bin |cg-proc -1 -n /home/sreekumar/apertium-mal-eng/mal-eng.rlx.bin |apertium-pretransfer|apertium-transfer /home/sreekumar/apertium-mal-eng/apertium-mal-eng.mal-eng.t1x  /home/sreekumar/apertium-mal-eng/mal-eng.t1x.bin  /home/sreekumar/apertium-mal-eng/mal-eng.autobil.bin |apertium-interchunk /home/sreekumar/apertium-mal-eng/apertium-mal-eng.mal-eng.t2x  /home/sreekumar/apertium-mal-eng/mal-eng.t2x.bin |apertium-postchunk /home/sreekumar/apertium-mal-eng/apertium-mal-eng.mal-eng.t3x  /home/sreekumar/apertium-mal-eng/mal-eng.t3x.bin |lt-proc $1 /home/sreekumar/apertium-mal-eng/mal-eng.autogen.bin 
+  

@@ -1,0 +1,3 @@
+    
+    lt-proc /home/sreekumar/apertium-mal-eng/eng-mal.automorf.bin |cg-proc -1 -n /home/sreekumar/apertium-mal-eng/eng-mal.rlx.bin 
+  

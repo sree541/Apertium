@@ -1,0 +1,16 @@
+<dictionary>
+  <pardefs>
+  <!-- ഏല്‍ക്കുക; ; 5 -->
+    <pardef n="/ഏല്‍ക്കുക__vblex">
+      <e>       <p><l>ഏല്‍ക്കും</l><r>ഏല്‍ക്കുക<s n="vblex"/><s n="fut"/></r></p></e>
+      <e>       <p><l>ഏല്‍ക്കാന്‍</l><r>ഏല്‍ക്കുക<s n="vblex"/><s n="infp"/></r></p></e>
+      <e>       <p><l>എല്‍ക്കണം</l><r>ഏല്‍ക്കുക<s n="vblex"/><s n="oblig"/></r></p></e>
+      <e>       <p><l>ഏറ്റു</l><r>ഏല്‍ക്കുക<s n="vblex"/><s n="past"/></r></p></e>
+      <e>       <p><l>ഏല്‍ക്കുന്നു</l><r>ഏല്‍ക്കുക<s n="vblex"/><s n="pres"/></r></p></e>
+    </pardef>
+
+  </pardefs>
+  <section id="main" type="standard">
+    <e lm="ഏല്‍ക്കുക"><i></i><par n="/ഏല്‍ക്കുക__vblex"/></e>
+  </section>
+</dictionary>

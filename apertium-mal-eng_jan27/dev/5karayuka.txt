@@ -1,0 +1,16 @@
+<dictionary>
+  <pardefs>
+  <!-- കരയുക; കര; 5 -->
+    <pardef n="കര/യുക__vblex">
+      <e>       <p><l>യും</l><r>യുക<s n="vblex"/><s n="fut"/></r></p></e>
+      <e>       <p><l>യാന്‍</l><r>യുക<s n="vblex"/><s n="infp"/></r></p></e>
+      <e>       <p><l>യണം</l><r>യുക<s n="vblex"/><s n="oblig"/></r></p></e>
+      <e>       <p><l>ഞ്ഞു</l><r>യുക<s n="vblex"/><s n="past"/></r></p></e>
+      <e>       <p><l>യുന്നു</l><r>യുക<s n="vblex"/><s n="pres"/></r></p></e>
+    </pardef>
+
+  </pardefs>
+  <section id="main" type="standard">
+    <e lm="കരയുക"><i>കര</i><par n="കര/യുക__vblex"/></e>
+  </section>
+</dictionary>

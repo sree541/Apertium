@@ -1,0 +1,16 @@
+<dictionary>
+  <pardefs>
+  <!-- ഉഴുതുക; ഉഴ; 5 -->
+    <pardef n="ഉഴ/ുതുക__vblex">
+      <e>       <p><l>ുതും</l><r>ുതുക<s n="vblex"/><s n="fut"/></r></p></e>
+      <e>       <p><l>ുതാന്‍</l><r>ുതുക<s n="vblex"/><s n="infp"/></r></p></e>
+      <e>       <p><l>തണം</l><r>ുതുക<s n="vblex"/><s n="oblig"/></r></p></e>
+      <e>       <p><l>ുതു</l><r>ുതുക<s n="vblex"/><s n="past"/></r></p></e>
+      <e>       <p><l>ുതുന്നു</l><r>ുതുക<s n="vblex"/><s n="pres"/></r></p></e>
+    </pardef>
+
+  </pardefs>
+  <section id="main" type="standard">
+    <e lm="ഉഴുതുക"><i>ഉഴ</i><par n="ഉഴ/ുതുക__vblex"/></e>
+  </section>
+</dictionary>

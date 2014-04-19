@@ -1,0 +1,8 @@
+	SL										TL
+noun + (question word) + CONJECTIVE VERB<tense>				 -->   Qword+be<tense>+noun.
+noun + question word  							 -->   Qword+is+noun.
+noun1 with coord.conjunctn(ഉം/ഒ) + noun2 with coord.conjunctn(ഉം/ഒ)	 -->   noun1 and/or noun2
+verb1 with coord.conjunctn(ഉം/ഒ) + verb2 with coord.conjunctn(ഉം/ഒ)	 -->   verb1 and/or verb2
+noun1 + adjective+ noun2 with CONJECTIVE VERB<tense>			 -->   noun2+be<tense>+adjective+noun1
+
+

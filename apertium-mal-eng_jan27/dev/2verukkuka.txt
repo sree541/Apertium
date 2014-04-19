@@ -1,0 +1,16 @@
+<dictionary>
+  <pardefs>
+  <!-- വെറുക്കു; വെറു; 5 -->
+    <pardef n="വെറു/ക്കു__vblex">
+      <e>       <p><l>ക്കും</l><r>ക്കു<s n="vblex"/><s n="fut"/></r></p></e>
+      <e>       <p><l>ക്കാന്‍</l><r>ക്കു<s n="vblex"/><s n="infp"/></r></p></e>
+      <e>       <p><l>ക്കണം</l><r>ക്കു<s n="vblex"/><s n="oblig"/></r></p></e>
+      <e>       <p><l>ത്തു</l><r>ക്കു<s n="vblex"/><s n="past"/></r></p></e>
+      <e>       <p><l>ക്കുന്നു</l><r>ക്കു<s n="vblex"/><s n="pres"/></r></p></e>
+    </pardef>
+
+  </pardefs>
+  <section id="main" type="standard">
+    <e lm="വെറുക്കു"><i>വെറു</i><par n="വെറു/ക്കു__vblex"/></e>
+  </section>
+</dictionary>
